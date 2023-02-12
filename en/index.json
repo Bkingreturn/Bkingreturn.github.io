@@ -1,45 +1,24 @@
 [
 {
+	"uri": "/en/tutorials/",
+	"title": "教程",
+	"tags": [],
+	"description": "",
+	"content": "Tutorials Chapters 使用hugo创建个人博客 "
+},
+{
 	"uri": "/en/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
-},
-{
-	"uri": "/en/basics/",
-	"title": "Basics",
-	"tags": [],
-	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
-},
-{
-	"uri": "/en/second/second-content/",
-	"title": "Second Content",
+	"title": "Documentation for Hugo Learn Theme",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/en/second/",
-	"title": "Second",
+	"uri": "/en/tutorials/%E4%BD%BF%E7%94%A8hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/",
+	"title": "使用hugo创建个人博客",
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "/en/basics/second-content/",
-	"title": "Second",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "/en/basics/first-content/",
-	"title": "First",
-	"tags": [],
-	"description": "",
-	"content": "First Content 阿斯蒂芬\n"
 },
 {
 	"uri": "/en/categories/",

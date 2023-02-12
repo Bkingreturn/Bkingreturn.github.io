@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/tutorials/</loc>
+    <lastmod>2023-02-12T14:12:55+08:00</lastmod>
+  </url><url>
     <loc>/en/</loc>
-    <lastmod>2023-02-11T15:44:27+08:00</lastmod>
+    <lastmod>2023-02-12T14:16:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,20 +23,8 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/basics/</loc>
-    <lastmod>2023-02-11T15:13:09+08:00</lastmod>
-  </url><url>
-    <loc>/en/second/second-content/</loc>
-    <lastmod>2023-02-11T15:48:19+08:00</lastmod>
-  </url><url>
-    <loc>/en/second/</loc>
-    <lastmod>2023-02-11T15:44:58+08:00</lastmod>
-  </url><url>
-    <loc>/en/basics/second-content/</loc>
-    <lastmod>2023-02-11T15:14:23+08:00</lastmod>
-  </url><url>
-    <loc>/en/basics/first-content/</loc>
-    <lastmod>2023-02-11T15:14:17+08:00</lastmod>
+    <loc>/en/tutorials/%E4%BD%BF%E7%94%A8hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-02-12T14:16:35+08:00</lastmod>
   </url><url>
     <loc>/en/categories/</loc>
     <xhtml:link
